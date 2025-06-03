@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Copilot Prompts
+
+1. // Create a React App component that uses useState and useEffect to fetch and display accounts from http://localhost:5000/accounts
+2. // Create a React component called AddAccountForm with name and number input fields, and a submit button that calls a passed onAdd function
+3. // Create a React component called AccountList that receives accounts as props and displays them in a styled list with name and number
+4. // Create an Express server with CORS and JSON body parsing, and listen on port 5000
+5. // Create a GET /accounts route in Express that reads from data/accounts.json and returns the list of accounts as JSON
+6. // Create a POST /accounts route in Express that appends a new account from req.body to accounts.json and returns it
+7. // Add validation to the POST /accounts route to ensure the request body contains both name and number fields
